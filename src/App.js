@@ -10,12 +10,13 @@ function App() {
       <div className="focus">
         <div className="cover"></div>
         <div className="title">
-          <h3>somedaymaybe</h3>
+          <h1>homesick</h1>
+          <p>somedaymaybe</p>
         </div>
         <div className="social">
           <div className="logo">
             <a
-              href="https://open.spotify.com/artist/5e6uOIFDTidvoM2N9OeEJl?si=WX6MRJj_ReKce34SuC5h-g"
+              href="https://open.spotify.com/track/469OkU9m6zdoK8K9CBIBrH?si=Ucfwr_WGRYWYWZX0IeQ0tA&nd=1"
               target="_blank"
               rel="noreferrer"
             >
@@ -24,7 +25,7 @@ function App() {
             </a>
           </div>
           <a
-            href="https://open.spotify.com/artist/5e6uOIFDTidvoM2N9OeEJl?si=WX6MRJj_ReKce34SuC5h-g"
+            href="https://open.spotify.com/track/469OkU9m6zdoK8K9CBIBrH?si=Ucfwr_WGRYWYWZX0IeQ0tA&nd=1"
             target="_blank"
             rel="noreferrer"
           >
@@ -34,7 +35,7 @@ function App() {
         <div className="social">
           <div className="logo">
             <a
-              href="https://music.apple.com/us/artist/somedaymaybe/1632804378"
+              href="https://music.apple.com/us/album/homesick-feat-skizzy-mars-single/1688463995"
               target="_blank"
               rel="noreferrer"
             >
@@ -43,7 +44,7 @@ function App() {
             </a>
           </div>
           <a
-            href="https://music.apple.com/us/artist/somedaymaybe/1632804378"
+            href="https://music.apple.com/us/album/homesick-feat-skizzy-mars-single/1688463995"
             target="_blank"
             rel="noreferrer"
           >
@@ -53,7 +54,7 @@ function App() {
         <div className="social">
           <div className="logo">
             <a
-              href="https://on.soundcloud.com/e6e2R1vS75wUgmoZ8"
+              href="https://soundcloud.com/someday_maybe/homesick"
               target="_blank"
               rel="noreferrer"
             >
@@ -62,7 +63,7 @@ function App() {
             </a>
           </div>
           <a
-            href="https://on.soundcloud.com/e6e2R1vS75wUgmoZ8"
+            href="https://soundcloud.com/someday_maybe/homesick"
             target="_blank"
             rel="noreferrer"
           >
