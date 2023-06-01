@@ -2,6 +2,7 @@ import Play from "./svgs/play.svg";
 import Spotify from "./svgs/spotify.svg";
 import AppleMusic from "./svgs/apple-music.svg";
 import SoundCloud from "./svgs/soundcloud.svg";
+import YouTube from "./svgs/youtube.svg";
 
 function App() {
   return (
@@ -10,7 +11,7 @@ function App() {
       <div className="focus">
         <div className="cover"></div>
         <div className="title">
-          <h1>homesick</h1>
+          <h3>homesick</h3>
           <p>somedaymaybe</p>
         </div>
         <div className="social">
@@ -39,7 +40,7 @@ function App() {
               target="_blank"
               rel="noreferrer"
             >
-              <img src={AppleMusic} alt="spotify" />
+              <img src={AppleMusic} alt="apple music" />
               <p>Apple Music</p>
             </a>
           </div>
@@ -58,12 +59,31 @@ function App() {
               target="_blank"
               rel="noreferrer"
             >
-              <img src={SoundCloud} alt="spotify" />
+              <img src={SoundCloud} alt="sound cloud" />
               <p>SoundCloud</p>
             </a>
           </div>
           <a
             href="https://soundcloud.com/someday_maybe/homesick"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img src={Play} alt="play button" />
+          </a>
+        </div>
+        <div className="social">
+          <div className="logo">
+            <a
+              href="https://www.youtube.com/watch?v=Dl86bj707NI&ab_channel=somedaymaybe"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <img src={YouTube} alt="you tube" />
+              <p>YouTube</p>
+            </a>
+          </div>
+          <a
+            href="https://www.youtube.com/watch?v=Dl86bj707NI&ab_channel=somedaymaybe"
             target="_blank"
             rel="noreferrer"
           >
